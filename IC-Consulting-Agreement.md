@@ -2,7 +2,7 @@
 
 ## CONSULTING AGREEMENT
 
-This Agreement is made by **Myntra Designs Pvt. Ltd.**, (*“Myntra”*) and **Rahul Gonsalves** (“*Consultant*”), effective this **_1st day of December, 2013_**, for the purpose of setting forth the exclusive terms and conditions by which Company will acquire Consultant’s services on a temporary basis.
+This Agreement is made by **XXX Pvt. Ltd.**, (*“XXX”*) and **Rahul Gonsalves** (“*Consultant*”), effective this **_1st day of December, 2013_**, for the purpose of setting forth the exclusive terms and conditions by which Company will acquire Consultant’s services on a temporary basis.
 
 In consideration of the mutual obligations specified in this Agreement, and any compensation paid to Consultant for her or his services, the parties agree to the following:
 
